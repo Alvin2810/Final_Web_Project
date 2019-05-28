@@ -154,7 +154,7 @@ p{
   font-size:30px;
   font-family: sans-serif;
 }
-.card1,.card2,.card3:hover{
+.card1:hover,.card2:hover,.card3:hover{
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
 }
 
