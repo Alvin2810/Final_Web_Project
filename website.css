@@ -226,3 +226,16 @@ h6{
 .secondpage {
   width:650px;
 }
+
+.secondpage th,tr,td {
+border:1px solid;
+text-align: center;
+
+
+}
+
+.secondpage table{
+
+  padding: 20px;
+  border-collapse: collapse;
+}
