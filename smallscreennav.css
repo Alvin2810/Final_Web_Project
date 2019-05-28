@@ -2,7 +2,7 @@
   margin-left: auto;
   margin-right: auto;
   width: auto;
-  background-color: black;
+  background-color:  #00004d;
   padding: 20px;
 
 }
@@ -12,7 +12,7 @@
   padding: 16px 8px 6px 16px;
   text-decoration: none;
   font-size: 20px;
-  color: #818181;
+  color: white;
   display: block;
   border: none;
   background: none;
@@ -25,7 +25,7 @@
   padding: 16px 8px 6px 16px;
   text-decoration: none;
   font-size: 20px;
-  color: #818181;
+  color: white;
   display: block;
   border: none;
   background: none;
@@ -36,10 +36,12 @@
 }
 
 
+.buttonheader{
+  color: white
+}
 
-
-.sidenav a:hover, .dropdown-btn:hover, .buttonheader {
-  color: #f1f1f1;
+.sidenav a:hover, .dropdown-btn:hover, .buttonheader:hover {
+  color: #b32400;
 }
 
 
