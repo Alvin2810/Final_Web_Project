@@ -226,3 +226,9 @@ h6{
 .secondpage {
   width:650px;
 }
+.secondpage table, th, td{
+  border: 2px solid black;
+}
+.secondpage table{
+  border-collapse: collapse;
+}

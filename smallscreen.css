@@ -180,3 +180,9 @@ p{
   max-width: 100%
 
 }
+.secondpage table, th, td{
+  border: 2px solid black;
+}
+.secondpage table{
+  border-collapse: collapse;
+}
