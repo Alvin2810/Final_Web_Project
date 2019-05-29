@@ -226,16 +226,28 @@ h6{
 .secondpage {
   width:650px;
 }
-
-.secondpage th,tr,td {
-border:1px solid;
-text-align: center;
-
-
+.secondpage table, th, td{
+  border: 2px solid black;
+  padding: 10px;
 }
-
 .secondpage table{
-
-  padding: 20px;
   border-collapse: collapse;
+}
+.similar{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+footer{
+  background-color: #00004d;
+}
+footer table, td, tr{
+  border:none
+}
+footer table{
+  margin:auto;
+  text-align: center;
+}
+footer img{
+  height:80px;
 }

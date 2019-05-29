@@ -154,7 +154,7 @@ p{
   font-size:30px;
   font-family: sans-serif;
 }
-.card1,.card2,.card3:hover{
+.card1:hover,.card2:hover,.card3:hover{
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);
 }
 
@@ -179,4 +179,31 @@ p{
 .secondpage img{
   max-width: 100%
 
+}
+.secondpage table, th, td{
+  border: 2px solid black;
+  padding: 10px;
+}
+.secondpage table{
+  border-collapse: collapse;
+}
+.similar{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+footer{
+  background-color: #00004d;
+}
+footer table, td, tr{
+  border:none
+}
+footer table{
+  margin:auto;
+  text-align: center;
+}
+footer img{
+  min-height: 40px;
+  max-width:40px;
 }
