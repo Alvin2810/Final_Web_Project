@@ -193,8 +193,7 @@ p{
 }
 
 .secondpage table{
-  border-collapse: collapse;
-  margin: auto;
+  border-collapse: collapse
 }
 .similar{
   margin-left: auto;
