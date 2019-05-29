@@ -54,8 +54,11 @@ h3{
 }
 
 h4{
-  font-family: Consolas;
-  font-size: 16.0pt;
+  font-family: Baufra;
+  font-size: 18.0pt;
+  color:white;
+  background-color:#DC143C;
+  padding:20px;
 
 }
 h5{
@@ -180,12 +183,18 @@ p{
   max-width: 100%
 
 }
-.secondpage table, th, td{
+.secondpage td{
   border: 2px solid black;
   padding: 10px;
 }
+.secondpage table, th{
+  border: 2px solid black;
+  padding: 10px;
+}
+
 .secondpage table{
   border-collapse: collapse;
+  margin: auto;
 }
 .similar{
   margin-left: auto;
