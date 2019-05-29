@@ -55,13 +55,16 @@ h2{
 
 }
 h3{
-  font-family: Verdana;
-  font-size: 18.0pt;
+  font-family: Arial;
+  font-size: 20.0pt;
 }
 
 h4{
-  font-family: Consolas;
-  font-size: 16.0pt;
+  font-family: Baufra;
+  font-size: 18.0pt;
+  color:white;
+  background-color:#DC143C;
+  padding:20px;
 
 }
 h5{
