@@ -226,13 +226,19 @@ h6{
 .secondpage {
   width:650px;
 }
-.secondpage table, th, td{
+.secondpage td{
   border: 2px solid black;
   padding: 10px;
 }
+.secondpage table, th{
+  border: 2px solid black;
+  padding: 10px;
+}
+
 .secondpage table{
   border-collapse: collapse;
 }
+
 .similar{
   margin-left: auto;
   margin-right: auto;
